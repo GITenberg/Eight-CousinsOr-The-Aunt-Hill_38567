@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38567#Eight-CousinsOr-The-Aunt-Hill
 gutenberg_issued: '2012-01-13'
 gutenberg_type: Text
 identifiers:
